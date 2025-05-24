@@ -1,6 +1,5 @@
-# 👋 
-
 🎯 **Zaměření**:
+
 💼 **Profese / Zájmy**:
 ---
 🛠️ **Technologie & nástroje**
