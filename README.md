@@ -1,5 +1,5 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4AAA50?style=for-the-badge&logo=bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4AAA50?style=for-the-badge&logo=shell&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![C](https://img.shields.io/badge/C-0FFCCA?style=for-the-badge&logo=C&logoColor=black)
