@@ -3,4 +3,4 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![C](https://img.shields.io/badge/C-0FFCCA?style=for-the-badge&logo=C&logoColor=black)
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Cpp](https://img.shields.io/badge/Cpp-FFFFFF?style=for-the-badge&logo=Cpp&logoColor=black)
