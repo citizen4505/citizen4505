@@ -5,3 +5,6 @@
 ![C](https://img.shields.io/badge/C-0c0752?style=for-the-badge&logo=C&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/C++-0c0752?style=for-the-badge&logo=Cplusplus&logoColor=ffffff)
 <hr>
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBukh1Q2x1Xl5Ww/giphy.gif" width="400"/>
+</p>
